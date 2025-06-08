@@ -7,7 +7,7 @@ Uses structured JSON payloads
 Returns human-friendly analysis
 Easily pluggable into existing error handler scopes
 
-#How to Use
+##How to Use
 Import .car into OIC
 Set up OpenAI/OCI GenAI REST connection
 Adjust base URL and prompt if needed
